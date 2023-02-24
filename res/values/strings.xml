@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Act 02</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lblnumber">Enter a Number</string>
+    <string name="lblbutton">SUBMIT</string>
+    <string name="lblpc">PRIME OR COMPOSITE</string>
+	<string name="lblbinary">BINARY EQUIVALENT</string>
+	<string name="lbldivisible">DIVISIBLE NUMBER</string>
+    <string name="lblreset">RESET</string>
+
+</resources>
